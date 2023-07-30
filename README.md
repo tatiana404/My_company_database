@@ -30,10 +30,14 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 
 ## Mockup
+screenshots:
 
-The following video shows an example of the application being used from the command line:
+<img width="952" alt="workbench image" src="https://github.com/tatiana404/My_company_database/assets/65060199/2bdcebdf-072b-45a1-a774-beae631132b4">
 
-![The database schema includes a movies table and a reviews table, linked by the movie id.](./assets/image_1.png)
+The<img width="950" alt="visual studio table" src="https://github.com/tatiana404/My_company_database/assets/65060199/8a55e597-2d00-408c-abb0-92a0b9f0a0bf">
+the following video shows an example of the application being used from the command line:
+
+https://drive.google.com/file/d/1qnlwXZ6YppF-SZOaZz_vVgd4UZQaeDHU/view
 
 ---
 
