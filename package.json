@@ -1,0 +1,17 @@
+{
+  "name": "exit",
+  "version": "1.0.0",
+  "description": "Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called content management systems (CMS). The command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL should be created during this assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.5.2",
+    "node_modules-path": "^2.0.7"
+  }
+}
